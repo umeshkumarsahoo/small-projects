@@ -5,9 +5,8 @@ import random
 # Function to get a random quote
 def get_quote():
     try:
-        response = req.get(url="https://api.quotable.io/random")
-        response.raise_for_status()  # Raise an error for bad status codes
         response = req.get("https://zenquotes.io/api/random")
+        response.raise_for_status()  # Raise an error for bad status codes
         data = response.json()
 
         quote = data[0]['q'] # Extracting the quote from the JSON response

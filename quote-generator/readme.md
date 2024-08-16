@@ -16,6 +16,8 @@ Here are some screenshots of the application:
 
 ![Quote Generator Screenshot 1](start.png)
 
+![Quote Generator Screenshot 2](start2.png)
+
 ## APIs Used
 
 Here are some APIs that can be used to fetch random quotes:
