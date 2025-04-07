@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "name": "Unnamed: 0",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Company",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "TypeName",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Inches",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "ScreenResolution",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Cpu",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Ram",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Memory",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Gpu",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "OpSys",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Weight",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Price",
+      "type": "number",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
